@@ -1,0 +1,4 @@
+Genomför uppgifterna steg för steg.
+Följ instruktionerna i varje uppgift noggrant.
+Testa dina sidor genom att öppna dem i en webbläsare för att se hur koden fungerar.
+Pusha dina filer till Github på slutet av varje lektion.
